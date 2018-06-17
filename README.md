@@ -1,7 +1,7 @@
 # Elementary-ray-tracer
 This is a basic ray tracer written in C, it renders combinations of spheres, planes cylinders and cones in space from input file.
 
-This project done in collaboration with Liam Dehaudt at 42.
+This project was done in collaboration with Liam Dehaudt at 42.
 
 ## Features
 * Renders basic forms (spheres, planes cylinders and cones) in any position and orientation
