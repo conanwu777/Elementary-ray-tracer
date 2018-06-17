@@ -17,8 +17,14 @@ Run `make`. An executable will compile. Currently only tested on OS X.
 Run with `./rtv1 "Filename"`.
 A collection of sample files is included in `scenes/` folder.
 
+## Examples
+* Sphere on plane with one spot light
 ![alt text](https://github.com/conanwu777/Elementary-ray-tracer/blob/master/1.png)
+* Cone with one spot light
 ![alt text](https://github.com/conanwu777/Elementary-ray-tracer/blob/master/2.png)
+* 4 objects, 2 spot lights and shine effect
 ![alt text](https://github.com/conanwu777/Elementary-ray-tracer/blob/master/3.png)
+* More objects
 ![alt text](https://github.com/conanwu777/Elementary-ray-tracer/blob/master/4.png)
+* Colored lights
 ![alt text](https://github.com/conanwu777/Elementary-ray-tracer/blob/master/5.png)
