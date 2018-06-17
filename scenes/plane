@@ -1,0 +1,17 @@
+Num Objects : 1
+Num Lights : 1
+
+camera
+center 0 0 -500
+rotation 0 0
+
+light
+center 0 0 -200
+color fffbd6
+end
+
+plane
+center 0 -100 0
+normal 0 10 0
+color 4a7b9e
+end

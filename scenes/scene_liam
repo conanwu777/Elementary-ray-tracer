@@ -1,0 +1,90 @@
+Num Objects : 12
+Num Lights : 1
+
+camera
+center 0 200 -400
+rotation 0 10
+
+light
+center 150 300 200
+color ffffff
+end
+
+sphere
+center 200 100 -100
+radius 40
+color f7af56
+end
+
+sphere
+center 30 20 20
+radius 50
+color f7af56
+end
+
+sphere
+center -10 50 70
+radius 90
+color f7af56
+end
+
+sphere
+center -90 100 0
+radius 30
+color f7af56
+end
+
+cylinder
+center -30 0 140
+vector 50 40 -10
+radius 40
+color 74e8b7
+end
+
+cylinder
+center 100 0 300
+vector -90 40 10
+radius 40
+color 74e8b7
+end
+
+cylinder
+center 300 0 300
+vector -10 40 5
+radius 40
+color 74e8b7
+end
+
+cylinder
+center 20 0 300
+vector 40 40 0
+radius 40
+color 74e8b7
+end
+
+cylinder
+center -200 0 300
+vector 20 40 1
+radius 40
+color 74e8b7
+end
+
+cylinder
+center 60 0 300
+vector 20 40 10
+radius 40
+color 74e8b7
+end
+
+cylinder
+center -400 0 300
+vector 20 40 0
+radius 40
+color 74e8b7
+end
+
+plane
+center 0 -10 0
+normal 0 100 0
+color 5d4170
+end

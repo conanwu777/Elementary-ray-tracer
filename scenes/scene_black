@@ -1,0 +1,40 @@
+Num Objects : 4
+Num Lights : 2
+
+camera
+center 0 0 -300
+rotation 0 0
+
+light
+center 400 100 0
+color 63beff
+end
+
+light
+center -400 100 0
+color ff6375
+end
+
+sphere
+center 120 100 250
+radius 70
+color 0
+end
+
+sphere
+center -120 100 250
+radius 70
+color 0
+end
+
+sphere
+center 0 -20 300
+radius 120
+color 0
+end
+
+plane
+center 0 0 700
+normal 0 0 -100
+color 0
+end

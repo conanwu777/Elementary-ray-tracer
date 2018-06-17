@@ -1,0 +1,17 @@
+Num Objects : 1
+Num Lights : 1
+
+camera
+center 0 0 -1000
+rotation 0 0
+
+light
+center 5300 300 0
+color ffffff
+end
+
+sphere
+center 300 300 0
+radius 300
+color bbc17c
+end

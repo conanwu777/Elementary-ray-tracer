@@ -1,0 +1,18 @@
+Num Objects : 1
+Num Lights : 1
+
+camera
+center 0 0 -500
+rotation 0 0
+
+light
+center 400 200 -500
+color fffbd6
+end
+
+cylinder
+center 0 0 0
+vector 100 0 0
+radius 200
+color 4296b5
+end
